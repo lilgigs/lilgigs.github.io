@@ -28,7 +28,7 @@
  	Sample Input: 'What do you like to do for fun?'
 	
  * Languages: If the word 'languages' or 'language' is used Goldie will tell you how many he speaks.
-
+	Sample Input: 'How many languages do you speak?'
 ### Approach
 
  * Overall approach I think I did everything a little too piecemeal based on the requirements. If I retried the exercise I would let the requirements fall more naturally as the chat bot expands.
