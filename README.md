@@ -36,8 +36,8 @@
  * I wanted to mimic two Droids interacting with each other but I came up short of my vision. 
 	 - I wanted to incoorpoate more visiuals in the HTML and more sounds as responses. 
  * I also tried to make the timing of the responses mimic a normal conversation flow with the use of timeouts.
- * I made use of includes functions rather than full sentence inputs because I thought that allowed more flexibilty in what you could type. This also can make for some weird input to responses.
- * I am lowercasing inputs to make finding the correct reponse simpler but there is probably a better way.
+ * I made use of includes functions rather than full sentence inputs because I thought that allowed more flexibilty in what you could type. This also can make for some weird responses.
+ * I am lowercasing inputs to make finding the correct response simpler but there is probably a better way.
 
 
 ## Unsolved Problems
