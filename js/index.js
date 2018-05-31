@@ -52,6 +52,7 @@ var jsClass = [
 {name: 'Diana', likesRobots: 'no'},
 {name: 'Myriam', likesRobots: 'yes'},
 {name: 'Nikki', likesRobots: 'maybe'},
+{name: 'Tim', likesRobots: 'maybe'},
 ]
 
 var responses = [
